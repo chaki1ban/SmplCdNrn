@@ -1,0 +1,13 @@
+C:\Users\Natalya\Desktop\islam\SmplCdNrn\NeuronNetSimple\NeuronNet\bin\Debug\netcoreapp3.1\NeuronNet.exe
+C:\Users\Natalya\Desktop\islam\SmplCdNrn\NeuronNetSimple\NeuronNet\bin\Debug\netcoreapp3.1\NeuronNet.deps.json
+C:\Users\Natalya\Desktop\islam\SmplCdNrn\NeuronNetSimple\NeuronNet\bin\Debug\netcoreapp3.1\NeuronNet.runtimeconfig.json
+C:\Users\Natalya\Desktop\islam\SmplCdNrn\NeuronNetSimple\NeuronNet\bin\Debug\netcoreapp3.1\NeuronNet.runtimeconfig.dev.json
+C:\Users\Natalya\Desktop\islam\SmplCdNrn\NeuronNetSimple\NeuronNet\bin\Debug\netcoreapp3.1\NeuronNet.dll
+C:\Users\Natalya\Desktop\islam\SmplCdNrn\NeuronNetSimple\NeuronNet\bin\Debug\netcoreapp3.1\NeuronNet.pdb
+C:\Users\Natalya\Desktop\islam\SmplCdNrn\NeuronNetSimple\NeuronNet\obj\Debug\netcoreapp3.1\NeuronNet.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\islam\SmplCdNrn\NeuronNetSimple\NeuronNet\obj\Debug\netcoreapp3.1\NeuronNet.AssemblyInfoInputs.cache
+C:\Users\Natalya\Desktop\islam\SmplCdNrn\NeuronNetSimple\NeuronNet\obj\Debug\netcoreapp3.1\NeuronNet.AssemblyInfo.cs
+C:\Users\Natalya\Desktop\islam\SmplCdNrn\NeuronNetSimple\NeuronNet\obj\Debug\netcoreapp3.1\NeuronNet.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\Desktop\islam\SmplCdNrn\NeuronNetSimple\NeuronNet\obj\Debug\netcoreapp3.1\NeuronNet.dll
+C:\Users\Natalya\Desktop\islam\SmplCdNrn\NeuronNetSimple\NeuronNet\obj\Debug\netcoreapp3.1\NeuronNet.pdb
+C:\Users\Natalya\Desktop\islam\SmplCdNrn\NeuronNetSimple\NeuronNet\obj\Debug\netcoreapp3.1\NeuronNet.genruntimeconfig.cache

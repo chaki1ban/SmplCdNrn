@@ -30,14 +30,19 @@ namespace NeuronNet
             {
                 var actualResult = input * weight;
                 LastError = expectedResult - actualResult;
-                var correction = LastError / actualResult;
+                var correction = (LastError / actualResult) * Smoothing;
                 weight += correction;
             }
         }
 
         static void Main(string[] args)
         {
-            
+            decimal km = 100;
+            decimal milles = 62.1371m;
+
+            Neuron neuron1 = new Neuron();
+
+            Console.WriteLine(neuron1.ProcessInputData(km));
         }
     }
 }
